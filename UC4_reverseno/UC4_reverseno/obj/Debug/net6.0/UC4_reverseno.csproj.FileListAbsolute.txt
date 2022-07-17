@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\UC4_reverseno\UC4_reverseno\bin\Debug\net6.0\UC4_reverseno.exe
+C:\Users\anjum\source\repos\UC4_reverseno\UC4_reverseno\bin\Debug\net6.0\UC4_reverseno.deps.json
+C:\Users\anjum\source\repos\UC4_reverseno\UC4_reverseno\bin\Debug\net6.0\UC4_reverseno.runtimeconfig.json
+C:\Users\anjum\source\repos\UC4_reverseno\UC4_reverseno\bin\Debug\net6.0\UC4_reverseno.dll
+C:\Users\anjum\source\repos\UC4_reverseno\UC4_reverseno\bin\Debug\net6.0\UC4_reverseno.pdb
+C:\Users\anjum\source\repos\UC4_reverseno\UC4_reverseno\obj\Debug\net6.0\UC4_reverseno.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\UC4_reverseno\UC4_reverseno\obj\Debug\net6.0\UC4_reverseno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\UC4_reverseno\UC4_reverseno\obj\Debug\net6.0\UC4_reverseno.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\UC4_reverseno\UC4_reverseno\obj\Debug\net6.0\UC4_reverseno.AssemblyInfo.cs
+C:\Users\anjum\source\repos\UC4_reverseno\UC4_reverseno\obj\Debug\net6.0\UC4_reverseno.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\UC4_reverseno\UC4_reverseno\obj\Debug\net6.0\UC4_reverseno.dll
+C:\Users\anjum\source\repos\UC4_reverseno\UC4_reverseno\obj\Debug\net6.0\refint\UC4_reverseno.dll
+C:\Users\anjum\source\repos\UC4_reverseno\UC4_reverseno\obj\Debug\net6.0\UC4_reverseno.pdb
+C:\Users\anjum\source\repos\UC4_reverseno\UC4_reverseno\obj\Debug\net6.0\UC4_reverseno.genruntimeconfig.cache
+C:\Users\anjum\source\repos\UC4_reverseno\UC4_reverseno\obj\Debug\net6.0\ref\UC4_reverseno.dll
