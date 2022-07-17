@@ -1,1 +1,1 @@
-#welcome to day 6 logical computation
+welcome to day 6 logical computation
