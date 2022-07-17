@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\UC3_Primenumbers\UC3_Primenumbers\bin\Debug\net6.0\UC3_Primenumbers.exe
+C:\Users\anjum\source\repos\UC3_Primenumbers\UC3_Primenumbers\bin\Debug\net6.0\UC3_Primenumbers.deps.json
+C:\Users\anjum\source\repos\UC3_Primenumbers\UC3_Primenumbers\bin\Debug\net6.0\UC3_Primenumbers.runtimeconfig.json
+C:\Users\anjum\source\repos\UC3_Primenumbers\UC3_Primenumbers\bin\Debug\net6.0\UC3_Primenumbers.dll
+C:\Users\anjum\source\repos\UC3_Primenumbers\UC3_Primenumbers\bin\Debug\net6.0\UC3_Primenumbers.pdb
+C:\Users\anjum\source\repos\UC3_Primenumbers\UC3_Primenumbers\obj\Debug\net6.0\UC3_Primenumbers.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\UC3_Primenumbers\UC3_Primenumbers\obj\Debug\net6.0\UC3_Primenumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\UC3_Primenumbers\UC3_Primenumbers\obj\Debug\net6.0\UC3_Primenumbers.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\UC3_Primenumbers\UC3_Primenumbers\obj\Debug\net6.0\UC3_Primenumbers.AssemblyInfo.cs
+C:\Users\anjum\source\repos\UC3_Primenumbers\UC3_Primenumbers\obj\Debug\net6.0\UC3_Primenumbers.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\UC3_Primenumbers\UC3_Primenumbers\obj\Debug\net6.0\UC3_Primenumbers.dll
+C:\Users\anjum\source\repos\UC3_Primenumbers\UC3_Primenumbers\obj\Debug\net6.0\refint\UC3_Primenumbers.dll
+C:\Users\anjum\source\repos\UC3_Primenumbers\UC3_Primenumbers\obj\Debug\net6.0\UC3_Primenumbers.pdb
+C:\Users\anjum\source\repos\UC3_Primenumbers\UC3_Primenumbers\obj\Debug\net6.0\UC3_Primenumbers.genruntimeconfig.cache
+C:\Users\anjum\source\repos\UC3_Primenumbers\UC3_Primenumbers\obj\Debug\net6.0\ref\UC3_Primenumbers.dll
