@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\UC5_couponnumber\UC5_couponnumber\obj\Debug\net6.0\UC5_couponnumber.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\UC5_couponnumber\UC5_couponnumber\obj\Debug\net6.0\UC5_couponnumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\UC5_couponnumber\UC5_couponnumber\obj\Debug\net6.0\UC5_couponnumber.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\UC5_couponnumber\UC5_couponnumber\obj\Debug\net6.0\UC5_couponnumber.AssemblyInfo.cs
+C:\Users\anjum\source\repos\UC5_couponnumber\UC5_couponnumber\obj\Debug\net6.0\UC5_couponnumber.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\UC5_couponnumber\UC5_couponnumber\bin\Debug\net6.0\UC5_couponnumber.exe
+C:\Users\anjum\source\repos\UC5_couponnumber\UC5_couponnumber\bin\Debug\net6.0\UC5_couponnumber.deps.json
+C:\Users\anjum\source\repos\UC5_couponnumber\UC5_couponnumber\bin\Debug\net6.0\UC5_couponnumber.runtimeconfig.json
+C:\Users\anjum\source\repos\UC5_couponnumber\UC5_couponnumber\bin\Debug\net6.0\UC5_couponnumber.dll
+C:\Users\anjum\source\repos\UC5_couponnumber\UC5_couponnumber\bin\Debug\net6.0\UC5_couponnumber.pdb
+C:\Users\anjum\source\repos\UC5_couponnumber\UC5_couponnumber\obj\Debug\net6.0\UC5_couponnumber.dll
+C:\Users\anjum\source\repos\UC5_couponnumber\UC5_couponnumber\obj\Debug\net6.0\refint\UC5_couponnumber.dll
+C:\Users\anjum\source\repos\UC5_couponnumber\UC5_couponnumber\obj\Debug\net6.0\UC5_couponnumber.pdb
+C:\Users\anjum\source\repos\UC5_couponnumber\UC5_couponnumber\obj\Debug\net6.0\UC5_couponnumber.genruntimeconfig.cache
+C:\Users\anjum\source\repos\UC5_couponnumber\UC5_couponnumber\obj\Debug\net6.0\ref\UC5_couponnumber.dll
