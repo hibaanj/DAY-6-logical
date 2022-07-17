@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\UC6_stopwatch\UC6_stopwatch\bin\Debug\net6.0\UC6_stopwatch.exe
+C:\Users\anjum\source\repos\UC6_stopwatch\UC6_stopwatch\bin\Debug\net6.0\UC6_stopwatch.deps.json
+C:\Users\anjum\source\repos\UC6_stopwatch\UC6_stopwatch\bin\Debug\net6.0\UC6_stopwatch.runtimeconfig.json
+C:\Users\anjum\source\repos\UC6_stopwatch\UC6_stopwatch\bin\Debug\net6.0\UC6_stopwatch.dll
+C:\Users\anjum\source\repos\UC6_stopwatch\UC6_stopwatch\bin\Debug\net6.0\UC6_stopwatch.pdb
+C:\Users\anjum\source\repos\UC6_stopwatch\UC6_stopwatch\obj\Debug\net6.0\UC6_stopwatch.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\UC6_stopwatch\UC6_stopwatch\obj\Debug\net6.0\UC6_stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\UC6_stopwatch\UC6_stopwatch\obj\Debug\net6.0\UC6_stopwatch.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\UC6_stopwatch\UC6_stopwatch\obj\Debug\net6.0\UC6_stopwatch.AssemblyInfo.cs
+C:\Users\anjum\source\repos\UC6_stopwatch\UC6_stopwatch\obj\Debug\net6.0\UC6_stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\UC6_stopwatch\UC6_stopwatch\obj\Debug\net6.0\UC6_stopwatch.dll
+C:\Users\anjum\source\repos\UC6_stopwatch\UC6_stopwatch\obj\Debug\net6.0\refint\UC6_stopwatch.dll
+C:\Users\anjum\source\repos\UC6_stopwatch\UC6_stopwatch\obj\Debug\net6.0\UC6_stopwatch.pdb
+C:\Users\anjum\source\repos\UC6_stopwatch\UC6_stopwatch\obj\Debug\net6.0\UC6_stopwatch.genruntimeconfig.cache
+C:\Users\anjum\source\repos\UC6_stopwatch\UC6_stopwatch\obj\Debug\net6.0\ref\UC6_stopwatch.dll
