@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\UC2_perfectnumber\UC2_perfectnumber\bin\Debug\net6.0\UC2_perfectnumber.exe
+C:\Users\anjum\source\repos\UC2_perfectnumber\UC2_perfectnumber\bin\Debug\net6.0\UC2_perfectnumber.deps.json
+C:\Users\anjum\source\repos\UC2_perfectnumber\UC2_perfectnumber\bin\Debug\net6.0\UC2_perfectnumber.runtimeconfig.json
+C:\Users\anjum\source\repos\UC2_perfectnumber\UC2_perfectnumber\bin\Debug\net6.0\UC2_perfectnumber.dll
+C:\Users\anjum\source\repos\UC2_perfectnumber\UC2_perfectnumber\bin\Debug\net6.0\UC2_perfectnumber.pdb
+C:\Users\anjum\source\repos\UC2_perfectnumber\UC2_perfectnumber\obj\Debug\net6.0\UC2_perfectnumber.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\UC2_perfectnumber\UC2_perfectnumber\obj\Debug\net6.0\UC2_perfectnumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\UC2_perfectnumber\UC2_perfectnumber\obj\Debug\net6.0\UC2_perfectnumber.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\UC2_perfectnumber\UC2_perfectnumber\obj\Debug\net6.0\UC2_perfectnumber.AssemblyInfo.cs
+C:\Users\anjum\source\repos\UC2_perfectnumber\UC2_perfectnumber\obj\Debug\net6.0\UC2_perfectnumber.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\UC2_perfectnumber\UC2_perfectnumber\obj\Debug\net6.0\UC2_perfectnumber.dll
+C:\Users\anjum\source\repos\UC2_perfectnumber\UC2_perfectnumber\obj\Debug\net6.0\refint\UC2_perfectnumber.dll
+C:\Users\anjum\source\repos\UC2_perfectnumber\UC2_perfectnumber\obj\Debug\net6.0\UC2_perfectnumber.pdb
+C:\Users\anjum\source\repos\UC2_perfectnumber\UC2_perfectnumber\obj\Debug\net6.0\UC2_perfectnumber.genruntimeconfig.cache
+C:\Users\anjum\source\repos\UC2_perfectnumber\UC2_perfectnumber\obj\Debug\net6.0\ref\UC2_perfectnumber.dll
